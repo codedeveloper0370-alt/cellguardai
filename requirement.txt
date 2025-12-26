@@ -4,4 +4,3 @@ numpy
 plotly
 scikit-learn
 reportlab
-kaleido
